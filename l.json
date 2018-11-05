@@ -1,0 +1,422 @@
+[{
+    "title": "AI课程-基础知识篇",
+    "lesson": [{
+            "name": "第一章 构建Python环境",
+            "part": [1],
+            "file": [
+                "ee458e879f064b759079dc2e241aa186/c52ca7b8458a4fdfb53db24c95f9aa22-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第二章 基本语法",
+            "part": [1, 2],
+            "file": [
+                "0c31c19143e94733b1a6fc8c14223d8b/6b7959782fad4a7e9df9a42b256daca2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "51308f901e0449a585f2e5748a71ee95/f9da695878c64572a5ef63188d365359-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第三章 数据预处理",
+            "part": [1, 2],
+            "file": [
+                "7a7afd7c43da4fc69c1bcbb8bab88ada/c1fb032f86864d449c69ccb651cb5778-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "76692e64b5404d1ebee6a3582929fa6a/afecc5fc48af42cf94211799fafa9d73-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第四章 可视化",
+            "part": [1],
+            "file": [
+                "466c092d34d84771baf8b75e6a14c46d/10d60070d3234daf9a0660b739487276-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第五章 完整实例与练习",
+            "part": [1, 2],
+            "file": [
+                "5761f7864c084cf8a09a0ecb79ae2941/27bb390a12a84295bce9e32dadfac085-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "8e5bd7929be647ce93c24b224f4e32de/16a2716a7c2040dd96afd66aa8477baa-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第六章 数学概念",
+            "part": [1, 2, 3, 4],
+            "file": [
+                "323bbb37869642cfac72f47edd8b13e7/101752c6642c4f3bb79f0f8880c91e58-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "97b36a5fad9243158a2c0a0f2a209c69/b1f46d02f2d54fe686d5e6e1a9dec07b-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "0df883cb28c744b5bb753eb0f6eb72b0/a02a38ad14a04928b7d23097f31ee600-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "fda05205b5704b37a6ebf2d45909a465/6c6ab35ffd6f468eb35e2d5d92861972-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第七章 程序与概念",
+            "part": [1],
+            "file": [
+                "2793890bd9b548c0a470251478a84807/f8e4427415504f6d9f1caaf104dbe1fd-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第八章 程序实践-课后实践",
+            "part": [1],
+            "file": [
+                "66ad5a6de0304744a72ffc713d249030/67a112a7a3b04f369d6467a3fe37d6aa-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第九章 人工智能概念",
+            "part": [1],
+            "file": [
+                "0b8b97f11de5494a8739e603ff84a4a9/560921d009914e2b818879b58dd161fc-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十章 获取数据与特征工程",
+            "part": [1, 2],
+            "file": [
+                "6609f57bb0e947099a8349142bedf80b/91dd509cb3d74903b36c5c65e8f5a25e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "fb0199e0240e4c05b85e5933fbe91c32/2b973ccd76364d4787d8d3705ac4893d-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十一章 模型训练",
+            "part": [1, 2],
+            "file": [
+                "49f24ec642aa4d089c027ca6192d2015/9c27b8341a2a4f54a0c3ea2f14c5f466-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "621b01476dcb4ec19645338e5b068037/d898b1db62ba45248972002f2ee12b03-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "延伸视频—为何要跨上大数据的战车",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "file": [
+                "aec66714475d444e80ed16fbe53ec02e/e0989d5e76274ae387867ac605228928-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "89a66decd2974b2b87154bd726d453f2/47d13b69c46f4d998af6a0adbaaa56e8-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "376f04632cb3494ca629679c6003a4fa/bcdc4975c92640e0930d9959a513c0c2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "321f4b8260054a81af0c2171e912820b/710f77bb993041ff914709a6f756c87d-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "ae9ce2d609b34a60a36aced017920e52/2adb5a4c81b9462db7030bf6f9d17761-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "5f5bcec64c754e09982dc559f869e8c7/d342171108484e1fad9baea2d58ba2ef-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "6c9ad873059e47b49376acd39a50f759/0cd2c996404148c19cae3fbf74b101d5-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "7ad582f6c14c4c9e9228c49fc363801f/1bad23603e0f45369140b35f408c8edc-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1ac7191a09684007af229d273f8709c7/8cdc3792745b49bfb1e56f269f908e2f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "e1f6f745414e46ab8484a4d408e93659/16467fe983f3420db0b61eb91fdf66f5-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "7ec1e7c8537e4a8e83990a2e43cb81a1/9a004fb4166b49a38c068fe4b6045b65-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        }
+
+    ]
+}, {
+    "title": "AIE第一期",
+    "lesson": [{
+            "name": "第一章 人工智能-总览、引用与前沿",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+            "file": [
+                "9f1ba6b027b44de080da6a734eb14d42/b9746895e36547c7b15cb8daff92d29f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "61fc05e163a8460685246e3ad099ec87/ca3f331249fa4aa196d118614125ec3b-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "9780cccdade8461d8a98d0698ae080f8/b781e6574f4f491a99786c46b36dd038-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "22daaccae6b745f2a63fc01c677d0de6/aa6db0421f164fc5abce43dff0c93bbd-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "16bff91530984bd0b19df4e15680b4e0/56c95d215f794cd9982220c90b6a9c5f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "e5d3c933619c4ad6a8492277b560d282/7d8c158ecfda4b3d9718b87d88f87852-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "965bd3c701354f16ad4951473e747757/fe4f319627b442db845f8b20ddb05aae-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "e11a3fbeb9994ed18def73801d9636b0/1bbc0fb53e2440c0b20202a21c40d7da-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "9c22925d6e6c4676976c72f72068e748/f483687187ec4856aa25747b7a0485d0-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "141482ac9b7c433f835e0d70dc6f2815/703c2da0f2a24d1fbb22b54e6188d52f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "e7580b1c1e64409fa8952ef0670cca73/a7d3b59584ac4f9ca1ba77ff7389023c-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "9cae1765a5654af68a9c284e9f42dd31/55668a6e3da147f88ca5619aa429d52b-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "511f99c091394d69a698303106c706cc/59c7fa5f8a8b44409a83420289c7b4b3-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "5f4e19f7b3db4dfd8ea6ac3293da7e21/b78a64074f42443285f5ddfb9299840f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "44efb10407684bff8e358d205a4db2f6/a24aa4a9e52f417db389832b231ebef6-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "bb443e0a33c040fb916b86e283fe8365/b4aa23fbc3774c64adb39d1a43168924-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "5a35fd140c1f40fdb5a8460a388f013c/d07be148fbb14132b812543f2d94d9fc-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第二章 机器学习的数学基础-数学分析",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8],
+            "file": [
+                "9b57ca712da34447ba1bcfb6d00e2f2c/33ba934d0e8c45a2ad140321d2b8a654-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "8ff3cb39aae544e9889642ff80d85c30/e5d9b32aac5342d4a3701178c49935fd-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "dd6f26b032414fad9db4308e7b191c28/74b57d53bdd841c394da125061528ea0-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "3f889f9579f14875871c575d9e892eaf/eff5b1aed3f449eda5c0e4297e0e4b8e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "6057cdde75c24bcc9afc1e6b1129c043/0ebf9d133f8649e6a2e88501d4eca406-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "8f586dcb85024729a06194adf780cedf/c6871a1efc744127afb7a34582afe902-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "55e2ba5e8d0e4f748010f1640b633082/80bd04bc2b684c2ca29602fff591ef99-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "4f62e825f1ba4b24a9e784068fd1529d/5920c272f55b4fb285fd6789c505bd4f-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第三章 特征工程与结果可视化",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8],
+            "file": [
+                "f650a400362e41bda1a91aec63b2f704/94f5bc7d6127446faa1960f366093fea-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "c0805437827d4df2b5c127a1b02059ed/9f85662754f540ed827bf67d75293f21-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "8826f499013a415ca96825e84e73bb36/b92dc45f00e74957b31b81ada5920f53-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "8bea45ace0be4b87b5008fd6e38ef009/77bb184aeb2b45c4bf17a9b28b18a426-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "808d4fd2d74c4b738333c812059f3691/dce988194cff44c78b785a481a1f83ff-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "7d5ac969da1948a0a9b64356a2b635b5/0f89ee2fda5e49ba9633a3a8baec2cd5-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "dd33410dc3634aca8dd2f8358c8b1293/076fdd47128146de9075287153c1c076-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a9d97951bc9a491cb2b49c1916525e48/cca4ff70f8a74554b3194eb28f7c3455-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第四章 深度学习框架TensorFlow",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "file": [
+                "7189eaee80804ce7a88a27bb15a666d7/3f6b55fb4f074d5a92dad1533f68c174-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "af498d153de347249b653a5e2aa180dd/ac70d12f9a324bb599aba327754e56ad-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "9d0f39148b484cf3941f5a20a0be899d/78c2337635594e648238832cfd903113-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "c7d96dddaa6246b0b0f1d65d6ea2b545/52e3ee8eeb284e45b264da4492634692-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "27104d6f17874858bbd830f81f2697e4/f2f36b91119d42e9a64c4eb433b2c06e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "859ce33aeebb41e39d7635f055c7037c/27a3ccbf15be4c108938ce4a1ba59bea-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "f3d334ba589241758c2f54f1ee779d9d/1d6a210fcb694690a31854abeef1033f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "e6f703525a3842b6a2eab5914cbbefe9/3d45bf53b9224b60aad44df0af28c38e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "fdef361f3ba9440ea46e25c131a2c6ab/bdfc49c2025c471c99e5bcff182cebaf-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "41af7e51162d4664b7de798aee56bcd7/2abf571ffddb450591dc6e94361b2867-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "de374f641a31431b82a9951e7d716b2d/ea633f14ab9a4be4a9bc54237997cda6-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第五章 决策树与随机森林",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "file": [
+                "4054ca6c918d4edf8863c52ad193d1ea/877f46eebf2f4cf2b838cdf53f362e27-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2e6e9189812a437a9694759fceaf68dc/a3250576d9404c87a206fd2d809e91f0-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "5a7b460516ca480c8dd4b68208bb1403/8c5dd015e43c4f73ab81b8f4c3d08051-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a48ea932ebcf4206b169bc329360aa30/82f5d248d49145dc8e8780e60f97560b-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "3c1b1906001c407e9954ec08253a234b/f315d0351d54474c8c3f91e7a37c0a00-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "4e764f3a282e4e44b6495f9a4b54ab6b/2687e9286b1e44fbbcb909098ac1b357-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "7eb5ad7751c14e5eac63663562c060ee/133f3bc47dd542c9a39b2acd457feff6-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "27baaf34a13049cc8362f2cd8f9a18bf/a4d53405ab374738a5a9a9f863ea485d-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "d20328e565ae47428fd233ec8c7c7edb/e1e65bd80b2c43f18e85321ed058d4fa-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "bb4c1b28417f4643a2be38bce889ff66/e6a488638c52441680b997b7815e49b6-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第六章 分类算法",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "file": [
+                "e797b0cbfd494a368c1e7c4c776313f9/87d03a9538c84c878cfadc42ea6e2f56-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a3b2717ecd6f45f7b1601da3994ad5aa/02ee879c04054476a615c20129a3622b-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "c6a29834eec449b5b67297e30994aa2d/0c46f8717a26478d992aecde4d6d0fee-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "bff582c3a70a4b27a1475e3775dc106f/41bcb7104b33448e990317610b709ec9-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "b096da1f181e417d8907186df90990a3/60d88914cea2485e965bf58a6eb64fb1-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "88fe328f05664a7e9bc1c2b92f14425b/9aef90e3b28841d29054fdc53d46eca2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "caa49ea8f5914ed4b8c7426cabaff9b3/00d37e9cc4094a1d97ad640b11d7ef42-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1545cce821704dccac665dc27504c2e0/818164739da44b828f91bf7dc8b9cdda-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "d79519723b1d47409c158d26f1d4dc10/dd1091379c0a42cea470c5a733e5a157-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "c89b2ec4c1d54cf8add07e7ea2ebbc0d/f9c10fdefe15447fa7a8bf844db9491a-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "fb80305a5fc548bb914c433b17d3f157/84896ebdbe0747a8aff4ea8d2b0d723c-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第七章 回归算法",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "file": [
+                "83470a43c6a44b39b7f5491f95e5c181/0ce4664cc911454c9835c9c0f7832c30-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "4fb3d02bbef04dbb87fff2f28d3c095e/cc631f9f4bd34897afeda9deed702037-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "e357ea89440247c1ba43430580a11bb3/42fdc124cd8d417099416324998caf44-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2d535ba92ccc4cf998807bd384be4be9/2d8f8650e69e4de38dadd2f0ba4d3eaa-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "d9a862d24b114d2d9b70da2561f99d61/24f552df83ad48f09b3ea0ed82c3da00-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "95622e8c2f7d4909b1360e4356ff0284/3cbaf2655b3f4b589d80d3668f976d27-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "4f9db92e57804acca6e5e5c6cc42d5aa/0d7178ca92414aa2a9c3befed7867a55-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "055d8895c2184acbbafc09cc772f9c1d/4c0b46f02fcb4b79a5a2e3f147ec36ed-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "6046346a7e2a49389783748aed077f5f/5dae631732124db9b4df8df5ab5bcd62-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "0a7a75a03e4b43e08ee56134833ad242/b8524f9aeadb461585263f060f9454f4-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "6167bee614224b6396c39dd6e800aeac/fb0663042d0241ec94d34205f6859f8b-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2f55ad1d03404c41a6bdfa919fb9eaf9/79a94cf9e1514779b1d2470964a04df1-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "03602089412f4d238f44df4019d14eaf/c4f6fa82b1dc48de99899fb546727354-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第八章 聚类算法",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "file": [
+                "6a98fba8d06b4601985bad8a39010d18/c6feb87586244bce9882ac4efc90103e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "533a51b4e76b4de08aa15fc77b55b04a/55539cc0de814a74ae187bce7cdb9417-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1363411153f041529a620192b8eea96e/6b5e71fce3504508b7f10f6815c5bb36-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a870a46b76dc4ddeaf3927763aaa437e/b81db0266aa5466b97c8c1463f30fa27-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1a1e404833604ec290447f12c5f6dfb0/1ac16c395f01405eafd77a382b429636-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "ac25ad7bac354bc9baf0fe616ac0a612/470b8881cecb481c9fa1dfda5c48f75a-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a426ecaf1b2f46d69e2552d859ce3ec6/0ad82321e97e481a8555508a8fe61039-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "5091925bdf4840f381e37f1fc3206a6a/9f34fb23177542ec9b960d2c0201fc1f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "dfe125efc4e34e2ebb4b9e455ce906a8/48d02e3ad9a846f2899fc0a1c90d4196-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "b28eaeb19e2f43fab4c5c9a7875d2834/944771604c7c4bf1a90239023b170d3e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "441ed0dd1bcc429fa04cf5c508236be1/5370d2749421459f8bb0eb50e212151c-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "376f8cf0b4c640f0abf9544ba974b221/cce3f26d3b8943b5b5f8946de6d1f7d6-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第九章  大数据机器学习框架Spark Mllib",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8],
+            "file": [
+                "424e2424c5f14eb989fbc2c78662241d/9fc3bc4fb31b41d89e8737452555d450-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "922e61846b9f450cbf0642b72cd1a9eb/13ee667035a94b669ac33ec9763e85c4-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "8a41dd58e06e45b0a4b25217c5c5c59a/6429eee540d94f2789462076af565475-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "e23e5dc03a6f45b28832bd0d0a058413/c4a56e61ed0e40cca28898ee1a09dc9d-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "3aceb66cb0a24d78aa92ce06f02cbf75/f1e03e9c6e054f5e85aa838c22d6a032-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "5f122247f4ad400faa9441303a23a76a/61cd45a62b8c46d2831beea4a7959915-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "d9163f13096f4f47b08d6e777752618d/cce859e7e0884b02b4c48b4f5722bbe9-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "b71b542c0d354e4bb97ca290d3e711f8/3c3e7e97b129419d8a9e86ec8c690fde-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十章 深度学习基础",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "file": [
+                "1082667474ff4bc2a7a430e78ccac872/f33e46ba8e5b4472910c5f62dfa763b1-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "7a5e3ea27ad94bc3940f27fa6379fdbb/c142cd4a663e4855bd0e79c95145bc0e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "7fba092e73bf4759bb1a3cb0a3078400/6d5ea49074884b7bbfd0bd3fc626c8b6-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2164039502004e69b3e0bc18a562f001/9a5b63f0f1124f918baaa2a0eb95489e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "13346e38368f4f37846807ed0c1ade13/6b6cf7cd517b41aaad0e11c7d4e62216-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "0486903dbe0f4ca884ab31ed07b94d74/73dda1abd51e4c9d9051f23bdda2e3e0-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "efda9db3ffd849898045f3611913b36b/badf02fe5be34d728f14c8fcf86c3984-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "b0e72476f44a4c31b6c49f7ca0a100cc/8e225a70eb3f475eb60c9b7d555528ea-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "b3499d7608054b7e8b65a490af807589/3486033262364d31bd45041f267221df-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "178311e31de846ef8fcbfaa01fa459b3/83d3e291be3648cbac429fc0144b1e41-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "166634e940c344ae828030b35ac871d2/9d68f60799f14fb6ab8234fe06c27db3-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十一章 深度学习高级",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "file": [
+                "6dee2753fa66498496bd09ed8d3d29b9/6d14088d5e954f5db5b930f4bedb2a29-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1d9226a7aae743dd99248a87494a75c2/f05a9f1cd72f49ed89e7a70a15032967-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a98dc59dc83549de93aa5e48ec75cfcf/cf6afdb699c8437199c040fd1e351c83-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "990101f249cc47fc8c07482b199d301d/be43e5cc1030476a8b6a6b6d39b6a32f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "8e6af99d33e24a4cac85f5a281e468d7/22ee5aef8dda4b8a82aba60558587e1b-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "4a191b132ff74288bae7a46a13a2f0b4/1bb60db54f99499f8ee878e947f89258-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "85da222a2744460d90a18e3591c4924b/426d908d814347e2877d153a1623d6af-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2812b4fe31eb4b5eb533051e60e42857/a2f0ba05d60149849d12bd179ab6f323-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "ebd35f9c8df148d0b0319adc10402423/feefe1ea05f44d4598396b00704d8adb-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "722d84a1c0af4f918d5dc97f60819425/acdab5ca0a2c4514824ab70190c6b99f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "76089703ad0040638b8f85fe80676a27/292848986d2449b5a3d548be23fc195d-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十二章 增强学习自动驾驶",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "file": [
+                "f1f56ce8916d46d1986ada77a1d02191/9984dd69eea44e17abf8f8399ee691c0-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "ddf631725b5e49e4b56f73d7c0c2f8a0/bb531d1d97e04f45aa168831cedca06f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "95f0a3c193fd49088cd39450e82e9890/d2bfd490fcf140968cccb268154cc210-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a62c5bb37904400882f405bc08423bd2/883990e9d9154e99a8a91abb0108c558-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "0866e6dd48334e3198348bdf7034536a/a25ce8e0617c401497b96519f3dd3fdb-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2a31b57e4ead438a95577934683a3cd0/852191b73ae74ebd8ec8aeb7f46acc53-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "3661f550686544fd9c9ce5567e332690/5adcd62451a1435198a396ee970359b5-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "fb4d8a0a1cdd4af4b7ce766fa887c20c/e7c952ab5474469b816e165c269b02ed-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "516190a4733d45efac1f49fd3f250fb7/3aa3b0da2bb8411d87035dad9e3fb7dc-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "024244d5ec5649e8852bb30c8462852c/e7ce861f16384878aab8e4ff780aaf5c-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十三章 人脸识别",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "file": [
+                "fab65b8894884cd3b160ac33ade44ea6/19514d482599415cacb40b1aa0044026-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "39e0d54525ab44fc9b6d76c53d16160d/d940c4bc9d684edda79779ec47caf529-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "8b230259140e4420b3835be1f107b8d0/06450cb08c9b4361ac19792d669e6f50-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "388cd179f162460f9ce1f2c843755b04/33f88350e5c7491f84868c4dfa0466ad-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "f990a35a377a437bb107b6065191db00/2869c3f6998c4f308f0573f3f1c31854-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "5bbfd08920904e6d90fe8f5b139af362/e519bf5238a341ea9664d83d668d48d3-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "59fa1d58a756413d99b960d46186f16b/ff80b68122d747f3b76a9df3323f204f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2f1ef476a45141b984a439146c110757/bdeb98cb2c5a4628baf029586bd373ea-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "60bb12c566ae44608b7c08850f930e08/ca2beeb4cc0141c387db3e5ab5fc5b97-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1b2d852cf61949bbbae0f8b6f17e914e/a9ed117baa5a4dd688dc57fa0161eccc-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十四章 对话机器人",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "file": [
+                "b2cedd97f7804a83b750881c0f369b7a/7874af96e6734e3681870c1804a3202d-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "3788ce6283e94e6782beee864c1b68e1/179b2753ea4a46f3a8fa4d43948e4f45-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2cf3344d5c4c486ba8d00d1c39d71fec/c6cf9fb5e4b242e4ac9674d213e951e6-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "f469ef1dbf8340e2b962456a999ce026/357aed25261b43878106d8b78fa25313-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "7b9b1b08c46441a9ba544e526fed9ed6/432c06ec4e3143b9aa59894dd6f50178-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "ac557d0f943c492c87b1f6732a7019a1/09b08112590e4e97ad417058da2df5c7-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2d5a1ddc37bf4d2a89725e08bb4e7e92/b78f11844af140189d43cfbbecbae738-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "ce56ca61305e489b801dd4fade3213bb/295cfeae7e834e8eb0b3913886df84c2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "5216c985b2944d32bb3d6594c4bf72e5/a52a3c94290f48d1871719fbceb92667-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a9ce0652f9f24946a956615b98ef07df/fe91e566fa574c9fba4ca4e43cc54562-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "feb7d3d4b3104498bde928f797432c4f/5812f98939f540b198544965d5df08fc-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十五章 语音识别",
+            "part": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "file": [
+                "91d1b5e799334d988766438c32a5d662/0bcc72ba09ac42aeb37889ae28dae89d-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "82f3a95f20764661a0485047a1d8e7e6/77613d7434a04e5e89bd6c88e83d9415-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2b99be22e3364c32b858517b80f1b0c3/d9ea14f8f9114c0db84242951d50a4b2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "4a41645d944b4edba4be793de35299fd/d1661d906eb845c8adff0436e8fe1950-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "ed880de4754845e7acfe67f89b06bf79/80ce22575ce84226b73dae8b230a76a2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "f6fb42b22c0249b6959b18ea9ac35786/6d402ee7c94a40bda5826d2c7fa378eb-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2c67d52fbc5247ed8ba1d0b2742f7d5f/dcc622ee00d74b0283f10dbe85eda66f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a869fbc0cb6448c0be0c7332c3aafbc1/7caddf4e356b4246b5f474b44aee2ca4-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "53efd1e4783d4680b95892ad8c1d9c75/cca7bb5e0f824124bb480386140c7ef5-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "c33982a430b648be8fec93f22c36b184/aa03436c706c4142aafb28d6ed9fefb2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "2795c93011c24973bed29f5b82e71e05/31a3190457404968b4adebe9589cc912-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "750c513634b545d88b077a43b5f34aa7/8accc5353f4c4a79bef0a8a9ef93b73c-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十六章 实战项目《自动驾驶》",
+            "part": [1, 2, 3, 4, 5, 6],
+            "file": [
+                "b9088483d12f4197bd6cb4ecc6376e1e/38dc3a8844314defbce87e4e28d6c93e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "c2ddfc6c08b4478aafbdf845af96adf6/9319f3874db8411f9c4be716600aa14b-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "d6791398620f436ba90b73427329a973/94a03f98fc7041b2a52765dbe2c6a591-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "fb4fe6a5c7b74ccdba601e3ada5cb4f8/695b0488885f41ceb3f25402ddc18644-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "f7d231df410149e6b80b4d51f3a1f858/4ec9d895cf5d414086f2f9d9a4f70d2f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "37f6dba0ab784df7bb184d2f1189c103/465246f89eb14dc8bc170694b73fb66e-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十七章 实战项目《人脸识别》",
+            "part": [1, 2, 3, 4, 5, 6, 7],
+            "file": [
+                "0526241ff9a9466fb3be09b107c9cc81/79d4d5318a824314bdcc512e5d2a4a31-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a3423c82590b4024b15a6d0d1d3e7585/061f0beade3a4e27981e5277a2991bb2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "a09f5b0becf3493881d90708f9f172af/fdf9e37c491e4542af5b9d0c3210d149-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "deab2c9749404d3f9f3ab2b17ca25b7d/515011b6284b4c14b6d3efec0f01c66f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "d1a677fc4a754601a6628b0c44de45ae/72140ab1074d4665b0dc552197ba41f3-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1d475f1790b44ef2b9b5915a74454eae/78ef6cedf78147cea1174e1478949202-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "91e72c58942641a7963215bd1b757eb6/1eec9465818c4232b6b33e87b46f1423-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十八章 实战项目《对话机器人》",
+            "part": [1, 2, 3, 4],
+            "file": [
+                "a646010a12e74c5ebee57df8daf42ef4/0bb4e63279594f4ebaef4845b98a516e-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "bec73368bae943fd95f0972891d95138/e0434e98f9be404990b0030e2286174b-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "447b5a09064c488e85140a33988c85e2/8f091f5fa09a4ab1b357564fc257f59f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "0aca2b4020d84b8584b62050ef0ef6d8/74cbb0e641e14a71a4309269ad539d4d-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第十九章 实战项目人脸识别",
+            "part": [1, 2, 3, 4, 5, 6],
+            "file": [
+                "007e747e9cf34cfa917c354bde0c7159/9871dbab23fe45e9a61a584736377944-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "4257106c4f2041d78b423f4d3345e658/740a5ac7d3a941caa975508b5cee4b7f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "c1868657c6074596b3d61af58c1b0c6a/d87916f4d2a34c97a0b0ea2c7552fa19-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1a79b72de18341dc9f209bbdfaf30134/20de7efcddaa4b27bb4e4bf73dc5b079-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "bba176215bd44e60a9336fd7dd3c88f7/72b0ee3b5cb4454d80a46a369b135fe2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1e1a209a905f4a85bba0e0ae409c56cd/b0a9e0670143468facaed0aa5ffd723b-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "AIE第01期结业答辩",
+            "part": [1, 2, 3, 4, 5, 6],
+            "file": [
+                "4067e2ad011b42dd8ad8644101e969b9/f66e7874f491496683d811a5ec238bca-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "eb868d429d2845d38c7a5892ee95ca66/4c78b04306f44dafa02ca9b5da51f382-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "da083b0dbfd84b65ab41bbb7797c2810/b74085f0512a4052af4b3ce7427becbc-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "0de55f0cd37a439e848b0dae6e1ceadd/c4276fe341c344efab7f33a3ed4e8733-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "0e260ddcfa9d47a7aff776a7b3857cf7/e9ea78be8d91455992d1bd462359dc0f-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "1937ea891ae643eb882c4e486da7291b/5c9eb591b5cf4fa18c4493dd1e3efa95-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        }
+    ]
+}]

@@ -1,0 +1,19 @@
+[{
+    "title": "AI课程-基础知识篇",
+    "lesson": [{
+            "name": "第一章 构建Python环境",
+            "part": [1],
+            "file": [
+                "ee458e879f064b759079dc2e241aa186/c52ca7b8458a4fdfb53db24c95f9aa22-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        },
+        {
+            "name": "第二章 基本语法",
+            "part": [1, 2],
+            "file": [
+                "0c31c19143e94733b1a6fc8c14223d8b/6b7959782fad4a7e9df9a42b256daca2-4b6ffae84f2e1d243955ecaedcf11a3e",
+                "51308f901e0449a585f2e5748a71ee95/f9da695878c64572a5ef63188d365359-4b6ffae84f2e1d243955ecaedcf11a3e"
+            ]
+        }
+    ]
+}]
